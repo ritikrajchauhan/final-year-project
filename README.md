@@ -34,7 +34,7 @@ python -m pip install gevent==22.10.2
 Snapshots
 ---------
 
-| <img src="Screenshots/s1.png" width=100%> | <img src="Screenshots/s2.png" width=100%> | <img src="Screenshots/s3.png" width=100%> |
+| <img src="Screenshots/s1.jpg" width=100%> | <img src="Screenshots/s2.jpg" width=100%> | <img src="Screenshots/s3.jpg" width=100%> |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| <img src="Screenshots/s4.png" width=100%> | <img src="Screenshots/s5.png" width=100%> | <img src="Screenshots/s6.png" width=100%> |
-| <img src="Screenshots/s7.png" width=100%> | <img src="Screenshots/s8.png" width=100%> | <img src="Screenshots/s9.png" width=100%> |
+| <img src="Screenshots/s4.jpg" width=100%> | <img src="Screenshots/s5.jpg" width=100%> | <img src="Screenshots/s6.jpg" width=100%> |
+| <img src="Screenshots/s7.jpg" width=100%> | <img src="Screenshots/s8.jpg" width=100%> | <img src="Screenshots/s9.jpg" width=100%> |
