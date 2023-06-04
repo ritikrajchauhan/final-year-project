@@ -13,9 +13,9 @@ There are about 70,000 cases per year in India. Over the past decade, Cancer det
 Notes
 -----
 
-Login Credentials
-Username: admin
-Password: admin
+Login Credentials <br>
+Username: admin <br>
+Password: admin <br>
 
 ### Requirements:
 Python 3.8.10 64-bit
