@@ -13,7 +13,7 @@ There are about 70,000 cases per year in India. Over the past decade, Cancer det
 Notes
 -----
 
-Login Credentials <br>
+<b>Login Credentials -</b> <br>
 Username: admin <br>
 Password: admin <br>
 
