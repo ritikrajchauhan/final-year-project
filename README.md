@@ -13,8 +13,6 @@ There are about 70,000 cases per year in India. Over the past decade, Cancer det
 Notes
 -----
 
-Extract all "ProjectFiles.part(x).rar" in a single folder. ( Full project size - 176 MB )
-
 ### Requirements:
 Python 3.8 64-bit
 Visual C++ (Download x64 version "vc_redist.x64.exe") --> [Link](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
